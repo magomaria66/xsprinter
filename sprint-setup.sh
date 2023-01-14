@@ -22,25 +22,25 @@ RPC=9978
 
 #this is the Github Source for the binaries
 
-SOURCEA=https://github.com/Sprint-Core/Sprint/releases/download/v1.0.0.1/sprintcore-1.0.0.1-linux.tar
+SOURCEA=https://github.com/Sprint-Core/Sprint/releases/download/v1.0.0.2/sprintcore-1.0.0.2-linux.tar
 #Version for ubuntu 16.04
-SOURCEB='https://github.com/Sprint-Core/Sprint/releases/download/v1.0.0.1/sprintcore-1.0.0.1-linux.tar'
+SOURCEB='https://github.com/Sprint-Core/Sprint/releases/download/v1.0.0.2/sprintcore-1.0.0.2-linux.tar'
 
 #The archive itself from the source
 #18.04
-ARCHIVEA=sprintcore-1.0.0.1-linux.tar
+ARCHIVEA=sprintcore-1.0.0.2-linux.tar
 #16.04
-ARCHIVEB=sprintcore-1.0.0.1-linux.tar
+ARCHIVEB=sprintcore-1.0.0.2-linux.tar
 SENTINELSRC='https://github.com/Sprint-Core/sentinel.git'
 
 ARCHIVED=sprint_chain.zip
 CHAINSRC=''
 
 #ADDNODES
-ADDNODEA=165.227.114.138:9977
-ADDNODEB=104.248.12.13:9977
-ADDNODEC=81.180.139.213:9977
-ADDNODED=81.180.139.214:9977
+ADDNODEA=65.108.18.197:9977
+ADDNODEB=207.180.247.53:9977
+ADDNODEC=95.217.67.245:9977
+ADDNODED=65.109.25.197:9977
 
 
 #name of the folder created with the git clone when clonign the repository
